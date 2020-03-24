@@ -14,6 +14,7 @@
 		5496E1A6242A990100AF7A33 /* Grafico.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5496E1A4242A990100AF7A33 /* Grafico.xcdatamodeld */; };
 		5496E1A8242A990400AF7A33 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5496E1A7242A990400AF7A33 /* Assets.xcassets */; };
 		5496E1AB242A990400AF7A33 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5496E1A9242A990400AF7A33 /* LaunchScreen.storyboard */; };
+		5496E1B3242A9ABD00AF7A33 /* BarChart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5496E1B2242A9ABD00AF7A33 /* BarChart.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		5496E1A7242A990400AF7A33 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5496E1AA242A990400AF7A33 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5496E1AC242A990400AF7A33 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5496E1B2242A9ABD00AF7A33 /* BarChart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BarChart.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				5496E19B242A990100AF7A33 /* AppDelegate.swift */,
 				5496E19D242A990100AF7A33 /* SceneDelegate.swift */,
 				5496E19F242A990100AF7A33 /* ViewController.swift */,
+				5496E1B2242A9ABD00AF7A33 /* BarChart.swift */,
 				5496E1A1242A990100AF7A33 /* Main.storyboard */,
 				5496E1A7242A990400AF7A33 /* Assets.xcassets */,
 				5496E1A9242A990400AF7A33 /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 				5496E1A0242A990100AF7A33 /* ViewController.swift in Sources */,
 				5496E19C242A990100AF7A33 /* AppDelegate.swift in Sources */,
 				5496E19E242A990100AF7A33 /* SceneDelegate.swift in Sources */,
+				5496E1B3242A9ABD00AF7A33 /* BarChart.swift in Sources */,
 				5496E1A6242A990100AF7A33 /* Grafico.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
